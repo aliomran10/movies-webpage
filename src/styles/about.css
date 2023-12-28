@@ -1,0 +1,11 @@
+ .bodyy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: red;
+    height: 94vh; 
+}  
+
+   

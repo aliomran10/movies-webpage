@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px;
+    background-color: #d62828;
+}
+
+
+.cardContent{
+    background-color: #d62828;
+    color: #e0e1dd;
+}
+
+.cardActions{
+    flex: 1;
+    background-color: #d62828;
+}
+
+.Typography{
+    color: black;
+}
+
